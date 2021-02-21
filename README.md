@@ -27,7 +27,8 @@
 
 ```yaml
 dependencies:
-  flutter_qiyu: ^0.0.1
+  flutter_qiyu
+    git: https://github.com/gromoo/flutter_qiyu
 ```
 
 您可以从命令行安装软件包：
